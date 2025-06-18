@@ -6,7 +6,7 @@ The objective of the Zomato analysis is to extract insights from restaurant data
 # Dataset Used
 - <a href="https://github.com/Soumya-2102/Zomato-Analysis/commit/08f6e84d3aa7a64342f2e9f31b95c7240a54185a">Zomatoanalysisdata</a>
 
-# Questions(KPI'S)
+## Questions(KPI'S)
 1. Build a Data Model using the Sheets in the Excel File
 2. Build a Calendar Table using the Columns Datekey_Opening ( Which has Dates from Minimum Dates and Maximum Dates)
   Add all the below Columns in the Calendar Table using the Formulas.
@@ -29,4 +29,5 @@ The objective of the Zomato analysis is to extract insights from restaurant data
 10. Develop Charts based on Cusines, City, Ratings ( Candidate have to think about new KPI to analyse)
 11. Build a Dashboard for the KPI's Above.
 
-Process
+## Process
+
